@@ -22,3 +22,5 @@ class magicnumber{
 		System.out.println(magicnumber);
 	}
 }
+
+//comment
